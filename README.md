@@ -3,12 +3,9 @@ Este projeto implementa o controle de um braço robótico utilizando o LEGO® MI
 
 # 📦 Requisitos
 LEGO® MINDSTORMS® EV3
-
 Firmware LEGO EV3 MicroPython v2.0
-# 📥 Download aqui
-
 Estrutura montada com base nas instruções da LEGO
-# 🔧 Instruções de montagem
+
 
 # 🧠 Funcionalidades
 Inicialização automática do braço robótico, base e garra.
